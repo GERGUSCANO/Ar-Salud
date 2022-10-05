@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(204, 202, 171);
+}
+
+
+header>#p1{
+    color: crimson;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+header>#p2{
+    color: rgb(13, 173, 173);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+
+.reg_user{
+    width: 320px;
+    height: 460px;
+    background-color: rgb(96, 54, 214);
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    top: 60%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    font-size: 18px;
+}
