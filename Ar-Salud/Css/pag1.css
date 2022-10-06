@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("../Imagenes/salud-publica.jpg");
+    background-image: url("../Imagenes/fondo.jpg");
     background-size: cover;
 }
 header{text-align: center;
