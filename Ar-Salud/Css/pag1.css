@@ -19,9 +19,11 @@ img{
 .login-box{
     width: 320px;
     height: 460px;
-    background-color: black;
+    background-color: rgb(255, 255, 255, 0.3);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     font-family: 'Courier New', Courier, monospace;
-    color: antiquewhite;
+    color: rgb(47, 24, 173);
     top: 60%;
     left: 50%;
     position: absolute;
@@ -33,11 +35,11 @@ img{
 
 
 #avatar{
-    margin: 100px;
+    margin: 30px;
+    position:absolute;
+    width: 100px;
     height: 100px;
-    position: absolute;
-    top: -140px;
-    left: calc(36% - 140px);
+    
 }
 .login-box h1{
     margin: 0;
@@ -62,20 +64,20 @@ img{
 .login-box input[type="text"],
 .login-box input[type="password"]{
     border: none;
-    border-bottom: 1px solid #ffff;
+    border-bottom: 1px solid rgb(228, 22, 22);
     background: transparent;
     outline: none;
     height: 28px;
-    color: beige;
+    color: rgb(10, 10, 10);
     font-size: 18px;
 }
 /*PARA SACAR LOS ATRIBUTOS VISIBLES DE LOS VINCULOS*/
 .login-box a{
     text-decoration: none;
-    color: antiquewhite;
+    color: rgb(10, 10, 10);
 }
 .login-box a:hover{
-    background-color: chartreuse;
+    background-color: rgb(142, 187, 98);
     color: black;
     border-radius: 5px;
 }
@@ -84,7 +86,7 @@ img{
     border: none;
     outline: none;
     height: 30;
-    background: cadetblue;
+    background: rgb(215, 227, 228);
     border-radius: 5px;
     font-size: 20px;
 }
