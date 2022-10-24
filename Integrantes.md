@@ -18,6 +18,7 @@ Actualmente me desarollo como Analista de Experiencia y NPS en Konecta.
 #Douglas
 
 #Sofi
+Hola mi nombre es Sofia Perez Luches. Tengo conociminetos en HTML5, CSS3, JavaScript, VUE, SQL y GIT. Actualmente estoy cursando la tecnicatura en el ISPC y el curso de fullstack - python que ofrece codo a codo.
 
 #Pablo
 ¡Hola! Mi nombre es Pablo Fernando Ballatore, tengo 39 años. Soy de la ciudad de La Falda. Estudié 2 años de ingeniería electrónica en la UTN. Tengo cursos de electrónica. Soy electricista matriculado. Desde el 2019 empecé a estudiar programación, igual ya tenía una base de la facultad. Poseo conocimientos de C#, VBA, HTML, CSS, Javascript, PHP, framework como codeignater, laravel, node, react, angular. Trabajo como técnico electrónico en el casino de la ciudad de La Falda. También tengo proyectos de programación con un grupo de amigos. La idea es seguir sumando conocimientos.
