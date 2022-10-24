@@ -18,9 +18,10 @@ Actualmente me desarollo como Analista de Experiencia y NPS en Konecta.
 #Douglas
 
 #Sofi
+Mi nombre es Sofia Perez Luches, tengo 29 años. Soy de la ciudad de la Falda. Tengo conocimientos en HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, GIT, VUE Y SQL. Actualmente me encuentro cursando esta tecnicatura en ISPC ademas de un curso full stack - python para reforzar conocimiento. Mi nivel de ingles es B2.
 
 #Pablo
-¡Hola! Mi nombre es Pablo Fernando Ballatore, tengo 39 años. Soy de la ciudad de La Falda. Estudié 2 años de ingeniería electrónica en la UTN. Tengo cursos de electrónica. Soy electricista matriculado. Desde el 2019 empecé a estudiar programación, igual ya tenía una base de la facultad. Poseo conocimientos de C#, VBA, HTML, CSS, Javascript, PHP, framework como codeignater, laravel, node, react, angular. Trabajo como técnico electrónico en el casino de la ciudad de La Falda. También tengo proyectos de programación con un grupo de amigos. La idea es seguir sumando conocimientos.
+¡Hola! Mi nombre es Pablo Fernando Ballatore, tengo 39 años. Soy de la ciudad de La Falda. Estudié 2 años de ingeniería electrónica en la UTN. Tengo cursos de electrónica. Soy electricista matriculado. Desde el 2019 empecé a estudiar programación, de la cual ya tenía una base por la facultad. Poseo conocimientos de C#, VBA, HTML, CSS, Javascript, PHP, framework como codeignater, laravel, node, react, angular. Trabajo como técnico electrónico en el casino de la ciudad de La Falda. También tengo proyectos de programación con un grupo de amigos. La idea es seguir sumando conocimientos.
 
 #Romina
 Soy Romina Sol Haag, tengo 26 años, soy de Comodoro Rivadavia pero desde 2019 que vivo en Cordoba Capital, Ese año comence a meterme en el mundo de la programacion, haciendo bootcamps web y cursitos. En 2021, comence a trabajar de QA Automation y estudiar la carrera 'Tecnicatura en programacion'. Este año aposte por el ispc para continuar mi aprendizaje universitario.
