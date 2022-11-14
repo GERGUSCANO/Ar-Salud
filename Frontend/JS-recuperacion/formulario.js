@@ -10,7 +10,7 @@ function enviarForm (){
     console.log("Formulario enviado");
     var mensajeError = [];
 
-    if (name.value === null || name.value === ''){
+    if (nam.value === null || nam.value === ''){
         mensajeError.push('Ingresa tu nombre');
     }
     if (email.value === null || email.value === ''){
