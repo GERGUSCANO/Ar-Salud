@@ -5,7 +5,7 @@ let cad = `
           <p>Usuario</p>
           <input type="text" name="usuario" id="usuario" placeholder="Ingrese su usuario">
           <p>Contraseña</p>
-          <input type="text" name="contraseña" id="contraseña" placeholder="Ingrese su contraseña">
+          <input type="text" name="contraseña" id="contraseña" placeholder="Ingrese su contraseña" maxlength="6">
           <br><br>
           <input type="submit" class="button" id="btn" name="btn" value="Ingresar">
           <a href="../HTML/form_registro.html"><p>¿Ya está registrado?</p></a>
